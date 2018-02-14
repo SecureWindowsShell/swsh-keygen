@@ -1,4 +1,4 @@
-# swsh-keygen
+# swsh-keygen · [![CircleCI](https://circleci.com/gh/SecureWindowsShell/swsh-keygen/tree/master.svg?style=svg)](https://circleci.com/gh/SecureWindowsShell/swsh-keygen/tree/master)
 SSH key-pair generator for [SWSH](https://github.com/SecureWindowsShell/SWSH), but it can be used separately.
 
 ## Build
